@@ -738,6 +738,7 @@ img {
 
 .modal-submit-btn {
   margin: 0 auto;
+  display: flex;
   display: block;
   border-radius: 4px;
   padding: 16px 32px;
